@@ -5,7 +5,7 @@
 <h2>How to run ?</h2>
 - Install meteor following https://www.meteor.com/install
 - Open your terminal<br/>
-<code>git clone git@gitlab.com:TheCreativeCat/tuesou.git</code><br/>
+<code>git clone git@github.com:jcommaret/tuesou.git</code><br/>
 <code>cd tuesou</code><br/>
 For web :<br/>
 <code>meteor</code><br/>
